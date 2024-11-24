@@ -8,3 +8,4 @@ matplotlib
 mlflow
 optuna
 optuna-integration
+sklearn-lvq
