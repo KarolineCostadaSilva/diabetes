@@ -10,3 +10,4 @@ optuna
 optuna-integration
 sklearn-lvq
 scikit-posthocs
+imbalanced-learn
